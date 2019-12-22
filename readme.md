@@ -1,3 +1,3 @@
-# convertir un modèle HTML en thème WordPress
+# Convertir un modèle HTML en thème WordPress (débitant)
 
 > Un site Web HTML statique convertir en mon propre thème WordPress. J'utilise un plugin pratique pour WordPress appelé **Advanced Custom Fields**
